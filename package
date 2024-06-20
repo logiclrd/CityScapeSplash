@@ -1,0 +1,4 @@
+#!/bin/sh
+
+tar cfv - `find city-pixels-loading-anim` | gzip -9 - > city-pixels-loading-anim.tar.gz
+
