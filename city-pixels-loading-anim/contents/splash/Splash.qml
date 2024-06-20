@@ -23,7 +23,7 @@
 
         AnimatedImage {
           id: cityscape
-          source: "images/cityscape.gif"
+          source: "images/cityscape.mng"
           width: Screen.width
           height: Screen.height
           anchors.bottom: parent.bottom
